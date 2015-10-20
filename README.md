@@ -3,7 +3,7 @@ A simple JavaScript console that envelops the standard console.log() function an
 
 To use the console, include this JavaScript code in your project, and call the `enableConsole()` function.  
 There are a few optional parameters that can be added to the function as well:  
-`enableConsole([[[width], height], fontSize]);`  
+`enableConsole([width[,height[,fontSize]]]);`  
 `width: the width of the console in pixels (default is 300px)`  
 `height: the height of the console in pixels (default is 200px)`  
 `fontSize: the size of the console's font in pixels (default is 10px)`
